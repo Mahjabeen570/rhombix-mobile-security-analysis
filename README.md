@@ -76,7 +76,7 @@ http://localhost:8081
 
 ## 📄 Report
 
-Detailed PDF report is included in this repository.
+[Download Report](reports/Report.pdf)
 
 ---
 
